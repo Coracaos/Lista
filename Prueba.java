@@ -6,11 +6,9 @@ public class Prueba {
 				
 //		Lista lista = new Lista();
 //		
-//		lista.add("edu");
-//		lista.add("manuel");
-//		lista.add("macarena");
-//		lista.add("maricarmen");
-//		lista.add("stephanie");
+//		lista.add("carro");
+//		lista.add("moto");
+//		lista.add("avion");
 //		
 //
 //		
